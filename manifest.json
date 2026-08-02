@@ -1,0 +1,16 @@
+{
+  "name": "Errands by MÉLANGE",
+  "short_name": "Mélange",
+  "description": "Smart Errand & Logistics Engine for UG Legon",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#166534",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    }
+  ]
+}
